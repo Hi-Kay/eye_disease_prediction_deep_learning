@@ -19,9 +19,13 @@ I tested 3 different pretrained models:
 
 I used random search and grid search to optimize the hyperparameter like learning rate and batch size. 
 
-For I two best models I used fine tuning to improve the models.
+For the two best models I used fine tuning to improve the models.
 
 The best model was: VGG16 
+
+**Confusion Matrix of best Model**
+<img width="733" alt="augmentation" src="https://github.com/Hi-Kay/eye_disease_prediction_deep_learning/blob/main/images/VGG16_best_cm.png">
+
 
 ## 2.3 Web Application
 To build a web application I used flask. You can upload your fundus image to check for diseses. 
@@ -31,5 +35,5 @@ To build a web application I used flask. You can upload your fundus image to che
 
 ## Orignal Data Source
 - https://odir2019.grand-challenge.org/dataset/
-<img width="733" alt="augmentation" src="https://rumc-gcorg-p-public.s3.amazonaws.com/i/2020/01/21/a5d60b66.png">
+<!-- <img width="733" alt="augmentation" src="https://rumc-gcorg-p-public.s3.amazonaws.com/i/2020/01/21/a5d60b66.png"> -->
 - https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
