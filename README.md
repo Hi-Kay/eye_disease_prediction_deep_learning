@@ -3,7 +3,7 @@
 In this project I used images of the fundus (back surface of the eye) to predict eye diseses 
 
 # 1. Background
-Early detection of common ocular diseases is quite difficult since few symptoms are visible in the early stage of diseases. But early detection is important and fundus screening is an economic and effective way to prevent blindness as early as possible that cased by diabetes, glaucoma, cataract and many other causes. Image classifiaction with deep learning can be used to improve and speed up the dectection. 
+Early detection of common ocular diseases is quite difficult since few symptoms are visible in the early stage of diseases. But early detection is important and fundus screening is an economic and effective way to prevent blindness as early as possible that caused by diabetes, glaucoma, cataract and other diseases. Image classifiaction with deep learning can be used to improve and speed up the dectection. 
 
 
 # 2. Appproach
@@ -39,9 +39,8 @@ For the styling I used simple-css: https://simplecss.org
 To create the prediction graph I used: https://www.chartjs.org
 
 **Demo**
-https://user-images.githubusercontent.com/119670959/223734291-10ea401a-32c0-4858-b5b3-03b857339515.mov
 
-<img width="733" alt="augmentation" src="https://github.com/Hi-Kay/eye_disease_prediction_deep_learning/blob/main/images/ScreenRec_EyeDiseasePred.mov">
+<img width="733" alt="augmentation" src="https://github.com/Hi-Kay/eye_disease_prediction_deep_learning/blob/main/images/web_app.gif">
 
 
 
