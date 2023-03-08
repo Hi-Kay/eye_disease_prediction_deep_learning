@@ -34,9 +34,9 @@ The best model was: VGG16
 
 ## 2.3 Web Application
 On the web application you can upload your fundus image to check for diseses. 
-To build a web application I used flask: https://flask.palletsprojects.com/en/2.2.x/
-For the styling I used simple-css: https://simplecss.org
-To create the prediction graph I used: https://www.chartjs.org
+- To build a web application I used flask: https://flask.palletsprojects.com/en/2.2.x/
+- For the styling I used simple-css: https://simplecss.org
+- To create the prediction graph I used: https://www.chartjs.org
 
 **Demo**
 
