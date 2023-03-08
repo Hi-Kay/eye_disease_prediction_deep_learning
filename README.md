@@ -30,6 +30,7 @@ For the two best models I used fine tuning to improve the models.
 The best model was: VGG16 
 
 **Confusion Matrix of best Model**
+
 <img width="733" alt="augmentation" src="https://github.com/Hi-Kay/eye_disease_prediction_deep_learning/blob/main/images/VGG_best_cm.png">
 
 
