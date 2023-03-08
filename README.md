@@ -41,6 +41,8 @@ To create the prediction graph I used: https://www.chartjs.org
 **Demo**
 https://user-images.githubusercontent.com/119670959/223734291-10ea401a-32c0-4858-b5b3-03b857339515.mov
 
+<img width="733" alt="augmentation" src="https://github.com/Hi-Kay/eye_disease_prediction_deep_learning/blob/main/images/ScreenREc_EyeDiseasePred.mov">
+
 
 
 
