@@ -11,7 +11,8 @@ Early detection of common ocular diseases is quite difficult since few symptoms 
 The used dataset is meant to represent ‘‘real-life’’ set of patient information collected by Shanggong Medical Technology Co., Ltd. from different hospitals/medical centers in China. In these institutions, fundus images are captured by various cameras resulting into varied image resolutions. 
 Annotations were labeled by trained human. 
 
-**Example form the dataset:**
+**Example from the dataset:**
+
 <img width="733" alt="augmentation" src="https://github.com/Hi-Kay/eye_disease_prediction_deep_learning/blob/main/images/info_dataset.png">
 
 
