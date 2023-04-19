@@ -1,6 +1,6 @@
 # Predicting Eye Diseases with Deep Learning
 
-In this project I used images of the fundus (back surface of the eye) to predict eye diseses 
+In this project I used images of the fundus (back surface of the eye) to predict eye disease.
 
 # 1. Background
 Early detection of common ocular diseases is quite difficult since few symptoms are visible in the early stage of diseases. But early detection is important and fundus screening is an economic and effective way to prevent blindness as early as possible that are caused by diabetes, glaucoma, cataract and other diseases. Image classifiaction with deep learning can be used to improve and speed up the dectection. 
